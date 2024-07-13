@@ -27,7 +27,6 @@ To install and set up the project locally, follow these steps:
 
 ## Usage
 
-**streamlit run app.py**
-**ngrok http 8501**
-
-Use the URL provided by ngrok to access the Streamlit app in your browser
+1. streamlit run app.py
+2. ngrok http 8501
+3. Use the URL provided by ngrok to access the Streamlit app in your browser
